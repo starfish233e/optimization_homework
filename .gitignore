@@ -1,0 +1,14 @@
+# Temporary PDF renders, caches, and local MATLAB preferences/certificates
+/tmp/
+
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+
+# Local run logs
+*.log
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
