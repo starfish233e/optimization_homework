@@ -4,6 +4,8 @@
 
 ## 文件说明
 
+- [全六题标准答案](output/answers/chapter3_standard_answers.md)：含逐题推导、动态规划计算表、数值结果与图表，不含 MATLAB 代码。
+- [标准答案 PDF](output/pdf/chapter3_standard_answers.pdf)：适合阅读与打印的排版版本。
 - [作业题目与索引](Homework%20for%20Chap3-2026.md)：六道作业题的 Markdown 整理版。
 - [作业原始 PDF](Homework%20for%20Chap3-2026.pdf)。
 - [第 3-3 题解答](output/q3/solution_q3.md)：推导、数值结果及增益变化解释。
